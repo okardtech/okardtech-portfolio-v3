@@ -1,0 +1,21 @@
+{
+  "name": "Okardtech",
+  "short_name": "Okardtech",
+  "description": "Okardtech - Empowering Digital Possibilities",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/images/okardtech-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/okardtech-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

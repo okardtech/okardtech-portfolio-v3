@@ -1,0 +1,143 @@
+{
+  "Header": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About Us",
+    "contact": "Contact",
+    "startProject": "Get a Started"
+  },
+  "Hero": {
+    "badge": "Your Trusted Technology Partner",
+    "headline": "Building Modern & Secure Digital Solutions for Your Business",
+    "subtitle": "Websites, Mobile Apps, Enterprise Systems and AI Platforms — Fast Delivery Scalable & Highly Secure.",
+    "cta": "Free Consultation",
+    "secondaryCta": "View Our Work",
+    "stat1": "Projects Delivered",
+    "stat2": "Client Satisfaction",
+    "stat3": "Industries Served"
+  },
+  "Trust": {
+    "title": "Trusted by Leading Businesses in Laos and Abroad."
+  },
+  "About": {
+    "badge": "About Us",
+    "title": "Meet Okardtech",
+    "desc": "A professional team with deep expertise, ready to build solutions that meet your business and organizational needs",
+    "experience": "Years of Experience",
+    "membersTeam": "Team Members",
+    "projectDelivered": "Projects Delivered",
+    "clientSatisfaction": "Client Satisfaction",
+    "history": "Company History",
+    "story": "Our Story",
+    "storyDesc": "Okardtech Co., Ltd. was founded in late 2024 to develop and provide modern technology solutions that enhance business efficiency and improve people's quality of life. We are committed to delivering products and services that are easy to use, highly effective, and create positive social impact.",
+    "whoWeAre": "Who We Are",
+    "whoWeAreDesc": "A professional team that plans thoroughly and executes systematically to achieve success and maximum client satisfaction.",
+    "vision": "Vision",
+    "visionDesc": "To become a regional leader in technology solution development, creating maximum value for clients and contributing to sustainable social development.",
+    "mission": "Mission",
+    "missionDesc": "Developing high-quality solutions using modern technology, customized to client needs, delivered by a professional team to create positive change for businesses and society.",
+    "value": "Core Values",
+    "valueDesc": "Innovation, Quality, Trust & Professionalism."
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "End-to-End Digital Solutions",
+    "description": "Comprehensive technology services to help your business grow and succeed.",
+    "webDevTitle": "Web Development",
+    "webDevText": "Design and develop modern, responsive websites with excellent user experience and high performance.",
+    "mobileAppTitle": "Mobile Applications",
+    "mobileAppText": "Build iOS and Android mobile apps customized to your needs with flexibility and high performance.",
+    "technicalTitle": "IT Training",
+    "technicalText": "Technology training courses for students and organizations to enhance digital skills.",
+    "itTitle": "IT Consulting",
+    "itText": "Optimize your organization's IT systems for improved efficiency and security."
+  },
+  "WhyChooseUs": {
+    "label": "Why Choose Us",
+    "title": "A Digital Partner You Can Trust",
+    "subtitle": "Technical expertise combined with client-centered service to deliver real results.",
+    "fastTitle": "On-Time Delivery",
+    "fastDesc": "We deliver high-quality solutions on schedule, every time.",
+    "secureTitle": "Secure & Reliable",
+    "secureDesc": "Following the highest security standards and robust architecture.",
+    "teamTitle": "Expert Team",
+    "teamDesc": "Skilled developers with years of industry experience.",
+    "supportTitle": "24/7 Support",
+    "supportDesc": "Continuous maintenance and support for your peace of mind."
+  },
+  "Projects": {
+    "title": "Portfolio",
+    "subTitle": "Our Work",
+    "description": "Explore our successful projects showcasing our expertise and creativity",
+    "all": "All",
+    "website": "Websites",
+    "mobileApplication": "Mobile Apps",
+    "training": "Training"
+  },
+  "Team": {
+    "title": "Our Team",
+    "subtitle": "The People Behind Our Success"
+  },
+  "Testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Trust We're Proud Of"
+  },
+  "FinalCTA": {
+    "title": "Ready to Elevate Your Business?",
+    "subtitle": "Get a free consultation with our expert team today",
+    "primaryBtn": "Start a Project",
+    "secondaryBtn": "Chat on WhatsApp"
+  },
+  "Contact": {
+    "badge": "Contact Us",
+    "title": "Get in Touch",
+    "subtitle": "We're here to help you anytime",
+    "locationTitle": "Location",
+    "location": "Saphangmor Village, Xaythany District, Vientiane Capital, Lao PDR",
+    "emailTitle": "Email",
+    "email": "info@okardtech.com",
+    "callTitle": "Phone",
+    "phone": "+856 20 9878 0045",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formSubject": "Subject",
+    "formMessage": "Message",
+    "formNamePlaceholder": "Enter your name",
+    "formEmailPlaceholder": "Enter your email",
+    "formSubjectPlaceholder": "Enter subject",
+    "formMessagePlaceholder": "Enter your message",
+    "formSubmit": "Send Message",
+    "successTitle": "Message Sent!",
+    "successMessage": "Thank you for contacting us. We'll get back to you soon."
+  },
+  "Footer": {
+    "company": "Company",
+    "slogan": "Empowering businesses through innovative technology solutions. We develop modern products and custom solutions that turn ideas into reality.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "servicesTitle": "Services",
+    "webDev": "Web Development",
+    "mobileDev": "Mobile Development",
+    "productDev": "Product Development",
+    "customSolutions": "Custom Solutions",
+    "itConsulting": "IT Consulting",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimonials",
+    "contactTitle": "Contact Us",
+    "contactUs": "Contact Us",
+    "location": "Sapangmor Village, Xaythany District, Vientiane Capital, Lao PDR",
+    "phone": "+856 20 9878 0045",
+    "email": "info@okardtech.com",
+    "rights": "All Rights Reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "LanguageSwitcher": {
+    "english": "English",
+    "lao": "ລາວ"
+  }
+}

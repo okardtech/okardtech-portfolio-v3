@@ -1,0 +1,113 @@
+{
+  "Header": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "startProject": "Start a Project"
+  },
+  "Hero": {
+    "headline": "We Build Modern Digital Solutions for Businesses in Laos & ASEAN",
+    "subTitle": "Websites, mobile apps, booking systems, enterprise solutions, and AI-powered platforms — delivered fast, secure, and scalable.",
+    "title": "WELCOME TO OKARDTECH CAMPUS--YOUR HOME FOR INNOVATION",
+    "title1": "Empowering",
+    "title2": "Digital Possibilities",
+    // "subtitle": "We build innovative websites, mobile apps, and web applications that drive growth and success for your business.",
+    "buttonServices": "Our Services",
+    "buttonContact": "Contact Us",
+    "scrollDown": "Scroll Down"
+  },
+  "About": {
+    "title": "About Okardtech",
+    "subtitle": "Crafting digital excellence from idea to launch.",
+    "bio": "OkardTech is a leading technology company specializing in product development and custom solutions for businesses. Founded with a passion for technology and a vision to transform the digital landscape, we've grown into a team of experts dedicated to excellence.",
+    "experice": "Years Experience",
+    "membersTeam": "Team members",
+    "completedProject": "Projects completed",
+    "clientSatisfaction": "Client Satisfaction",
+    "ourCompany": "Our Company",
+    "missionVision": "Mission & Vision",
+    "ourValues": "Our Values",
+    "storyTitle": "Our Story",
+    "storyText": "Founded in 2020 by a group of passionate technologists, Okardtech began with a simple mission: to build beautiful, functional software that solves real-world problems. From our humble beginnings, we've grown into a dynamic agency serving clients worldwide while developing our own suite of innovative products.",
+    "whoTitle": "Who We Are?",
+    "whoText": "We are a curated team of expert developers, creative designers, and sharp strategists. We believe in collaboration, continuous learning, and a user-first approach. Our diverse backgrounds fuel our creativity and enable us to tackle challenges from multiple perspectives.",
+    "missionTitle": "Mission & Vision",
+    "missionText": "Our mission is to be a trusted technology partner for businesses, empowering them to thrive in the digital landscape. We envision a future where seamless technology enhances human potential, and we're dedicated to building the tools that will make it happen.",
+    "valueTitle": "Our Values",
+    "valueText": "Innovation drives everything we do. We believe in pushing boundaries and exploring new possibilities in technology. Collaboration is at our core - we work closely with our clients and within our team to achieve the best outcomes. Integrity, excellence, and continuous learning guide our daily operations. We're committed to delivering quality solutions while maintaining the highest ethical standards in all our business relationships."
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "What We Offer",
+    "description": "We provide a comprehensive range of technology services to help businesses grow and succeed. Our expertise spans across various domains to deliver solutions that drive innovation and efficiency.",
+    "webDevTitle": "Website Development",
+    "webDevText": "We build modern, responsive websites and web applications that deliver exceptional user experiences.",
+    "mobileAppTitle": "Mobile Development",
+    "mobileAppText": "We develop native and cross-platform mobile applications that engage users and drive business growth.",
+    "technicalTitle": "Technical Training",
+    "technicalText": "We offer comprehensive training programs to help your team master the latest technologies and best practices.",
+    "itTitle": "IT Consulting",
+    "itText": "We offer expert advice and strategic guidance to help you make informed technology decisions."
+  },
+  "Projects": {
+    "title": "Our Projects",
+    "subTitle": "Recent Works",
+    "description": "Explore our portfolio of successful projects that showcase our expertise and innovation.",
+    "all": "All",
+    "website": "Website",
+    "mobileApplication": "Mobile",
+    "training": "Training"
+  },
+  "Team": {
+    "title": "Meet Our Team",
+    "subtitle": "The brilliant minds behind our success."
+  },
+  "Testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "We are proud to have earned the trust of amazing clients."
+  },
+  "Contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a question or want to work together? Reach out to us and we'll get back to you as soon as possible.",
+    "locationTitle": "Our Location",
+    "location": "Phonphanao village, Xaysettha district, Vientiane, Laos",
+    "emailTitle": "Email Us",
+    "email": "info@okardtech.com",
+    "callTitle": "Call Us",
+    "phone": "+856 20 9878 0045",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formSubject": "Subject",
+    "formMessage": "Message",
+    "formNamePlaceholder": "Your Name",
+    "formEmailPlaceholder": "Your Email",
+    "formSubjectPlaceholder": "Subject",
+    "formMessagePlaceholder": "Your Message",
+    "formSubmit": "Send Message"
+  },
+  "Footer": {
+    "company": "OkardTech",
+    "slogan": "Empowering businesses through innovative technology solutions. We develop cutting-edge products and custom solutions that transform ideas into reality.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "servicesTitle": "Services",
+    "webDev": "Web Development",
+    "mobileDev": "Mobile Development",
+    "productDev": "Product Development",
+    "customSolutions": "Custom Solutions",
+    "contactTitle": "Contact Us",
+    "location": "Phonphanao village, Xaysettha district, Vientiane, Laos",
+    "phone": "+856 20 9878 0045",
+    "email": "info@okardtech.com",
+    "rights": "All rights reserved."
+  },
+  "LanguageSwitcher": {
+    "english": "English",
+    "lao": "ລາວ"
+  }
+}
